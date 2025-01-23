@@ -1,3 +1,9 @@
+---
+title: Teloria
+draft: false
+tags:
+---
+ 
 This is the landing page for the continent Of Teloria. This will include campaigns, cities, and factions related to Teloria.
 
 ## Campaigns
