@@ -1,4 +1,4 @@
-This is the landing page for the [[continent]] Of Teloria. This will include campaigns, cities, and factions related to Teloria.
+This is the landing page for the continent Of Teloria. This will include campaigns, cities, and factions related to Teloria.
 
 ## Campaigns
 [[Shattered Ivory]]
