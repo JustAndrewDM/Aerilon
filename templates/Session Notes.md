@@ -1,35 +1,42 @@
+**
 
 ### QUEST 🎯
 
-- #### ✅  Main Story
-    Establish the campaign
+- #### ✅  Quest number one
+    
 
 ### PEOPLE 👤
 
-- #### Ivory Oath
-    [[Eldis, God of Order]]
-    [[Searl, Disciple of Eldis]]
-    [[Naitsirhc Snomme]]
-    [[Thendrul Ubri]]
+- #### Important NPC number one
+    
 
-- #### Outsiders
-    [[Thuris, God of Ambition]]
-    [[Nazus Malum]]
+Keep the bullet points formatted as Heading, so that they appear on the index tree. Keep description of things on your index formatted as normal text, so that they don’t appear on the index tree, but is quickly accessible when you click on the link from the outline on the left
+
+- #### Important NPC number two - with just a minimum bit of context added for a quick look
+    
+- #### etc
+    
+
   
 
 ### ORGANIZATIONS 🏢
 
-- #### The Ivory Oath
-    [[The Ivory Oath]]
-    [[The Templars of the Profane]]
+- #### Organization number one
+    
+- #### etc
+    
 
   
 
 ### LOCATIONS 🗺️
 
-- #### Greyross 
+- #### Important place number one - with a bit of details and a link 
+    
+- #### Important place number two with a description below for quick find
     
 
+- #### etc
+    
   
 
 ### QUEST ITEMS ⚔️

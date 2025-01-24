@@ -23,3 +23,16 @@ Eldis is the leader of the Ivory Oath, as he is the god in which they are devote
 As of E487, [[Searl, Disciple of Eldis|Searl]] is the Disciple. He has been in this position for 12 years, being granted power by Eldis after saving the town of [[Greyross]] from [[Vollut, Scourge of the Sky]]. His ability to organize troops and enable the power of the collective is what proved his faith in Order.
 
 3. High Orders
+The High orders take on the toughest of tasks for the Ivory Oath. Normally spending their time training until one presents itself, they are often sent on missions involving great sources of evil, problems that could completely upset the order of Teloria. As of E487, the final High Order had been slain.
+
+4. Vanguard Orders
+The Vanguard Orders take up the tasks of the area local to Greyross, though they can venture out further if needed. This can involve local warlords and bosses, toppling growing ranks before they have a chance to take up roots. 
+
+5. Low Orders
+Basically the guard of Greyross, the low orders are often on duty protecting the city they call home. They will have opportunities to go out within the local area to deal with bandits and other such distractions on the road.
+
+6. Initiate Orders
+These orders are still in training and finding their footing. Having finally found an order to be a part of, they will train until they are capable of working as a team.
+
+7. Initiates
+These are the fresh faces of the order. Having just come to Greyross seeking to become a Champion of Eldis, these recruits will train in basics until they are able to form a bond with a group, in which they will become an initiate order.
