@@ -15,12 +15,14 @@ The Ivory Oath is a religious-based guild that follow [[Eldis, God of Order]]. T
 
 In K265, they founded the city of [[Greyross]] in order to meet the needs of their ever growing population. By K267, [[Kiotl, Goddess of Growth]] was ready to transfer power to Eldis, as the people of Teloria were ready to create order with which they already had. 
 
+Loyal to Eldis, this party fights to protect Teloria and uphold the ideals of justice, order, and peace. They are tasked with maintaining stability in the face of growing chaos, resolving crises across the land, and preserving Eldis’s reign.
+
 ## Structure
 1. [[Eldis, God of Order]]
 Eldis is the leader of the Ivory Oath, as he is the god in which they are devoted to. Once the oath is taken, he bestows power to his follows to aid in their endless task of keeping order within Teloria.
 
 2. The Disciple of Eldis
-As of E487, [[Searl, Disciple of Eldis|Searl]] is the Disciple. He has been in this position for 12 years, being granted power by Eldis after saving the town of [[Greyross]] from [[Vollut, Scourge of the Sky]]. His ability to organize troops and enable the power of the collective is what proved his faith in Order.
+- As of E487, [[Searl, Disciple of Eldis|Searl]] is the Disciple. He has been in this position for 12 years, being granted power by Eldis after saving the town of [[Greyross]] from [[Vollut, Scourge of the Sky]]. His ability to organize troops and enable the power of the collective is what proved his faith in Order.
 
 3. High Orders
 The High orders take on the toughest of tasks for the Ivory Oath. Normally spending their time training until one presents itself, they are often sent on missions involving great sources of evil, problems that could completely upset the order of Teloria. As of E487, the final High Order had been slain.
